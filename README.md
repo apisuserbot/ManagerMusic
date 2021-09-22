@@ -1,4 +1,4 @@
-<h2 align="centre">☄️ Kennedy X Music ☄️</h2>
+<h2 align="centre">Manager Music</h2>
 
 ### Music bot for playing music on telegram voice chat group.
 <p align="center"><a href="https://t.me/KennedyXRobot"><img src="https://telegra.ph/file/8008bce98aa5c60f9b37a.png" width="300"></a></p>
